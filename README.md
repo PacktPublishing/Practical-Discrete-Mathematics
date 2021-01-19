@@ -1,8 +1,8 @@
-# Practical Discrete Mathematics with Python
+# Practical Discrete Mathematics
 
-<a href="https://www.packtpub.com/product/practical-discrete-mathematics/9781838983147"><img src="https://static.packt-cdn.com/products/9781838983147/cover/smaller" alt="Practical Discrete Mathematics with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/practical-discrete-mathematics/9781838983147"><img src="https://static.packt-cdn.com/products/9781838983147/cover/smaller" alt="Practical Discrete Mathematics" height="256px" align="right"></a>
 
-This is the code repository for [Practical Discrete Mathematics with Python](https://www.packtpub.com/product/practical-discrete-mathematics/9781838983147), published by Packt.
+This is the code repository for [Practical Discrete Mathematics](https://www.packtpub.com/product/practical-discrete-mathematics/9781838983147), published by Packt.
 
 **Discover the power of discrete math in computer science and data science**
 
