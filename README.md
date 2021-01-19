@@ -52,7 +52,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Hands-On Mathematics for Deep Learning [[Packt]](https://www.packtpub.com/product/hands-on-mathematics-for-deep-learning/9781838647292) [[Amazon]](https://www.amazon.com/dp/1838647295)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Ryan T. White**
 is a Ph.D. in Applied Mathematics. He works as a professor at Florida Institute of Technology and researcher working on authoring educational materials/graphics, financial modeling, statistical modeling, and data science with R, Python, Matlab, and LateX.
 
