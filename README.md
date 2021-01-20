@@ -4,7 +4,7 @@
 
 This is the code repository for [Practical Discrete Mathematics](https://www.packtpub.com/product/practical-discrete-mathematics/9781838983147), published by Packt.
 
-**Discover the power of discrete math in computer science and data science**
+**Discover math principles that fuel algorithms for computer science and machine learning with Python**
 
 ## What is this book about?
 Discrete mathematics deals with studying countable, distinct elements, and its principles are widely used in building algorithms for computer science and data science. The knowledge of discrete math concepts can help you understand algorithms, binary, and general mathematics that sit at the core of data-driven tasks.
