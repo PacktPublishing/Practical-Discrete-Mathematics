@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 np.random.seed(1)
-# Create A and b matrice with pandas
+# Create A and b matrices with numpy
 A = 10* np.random.rand(10,10) - 5
 b = 10* np.random.rand(10) - 5
 
